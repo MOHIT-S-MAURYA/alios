@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707275851490",
+    "project_id": "alios-app",
+    "storage_bucket": "alios-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707275851490:android:5dda46747f2a0747d880bb",
+        "android_client_info": {
+          "package_name": "tech.thealios.alios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707275851490-eqdrr3993b1mp8isbg9ge2jhpf16c9kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw7WydRt0riYO4P1MfjluMKOgO3W_4DuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707275851490-eqdrr3993b1mp8isbg9ge2jhpf16c9kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
